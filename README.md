@@ -1,1 +1,1 @@
-# AOCL for
+需要设置本机OCL环境。线上OCL库为在CUDA中
